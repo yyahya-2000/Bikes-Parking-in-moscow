@@ -1,0 +1,5 @@
+E:\first year hse\programing\Model 3\HWs\BikesParking\BikeParkingLib\bin\Debug\BikeParkingLib.dll
+E:\first year hse\programing\Model 3\HWs\BikesParking\BikeParkingLib\bin\Debug\BikeParkingLib.pdb
+E:\first year hse\programing\Model 3\HWs\BikesParking\BikeParkingLib\obj\Debug\BikeParkingLib.csprojAssemblyReference.cache
+E:\first year hse\programing\Model 3\HWs\BikesParking\BikeParkingLib\obj\Debug\BikeParkingLib.dll
+E:\first year hse\programing\Model 3\HWs\BikesParking\BikeParkingLib\obj\Debug\BikeParkingLib.pdb
